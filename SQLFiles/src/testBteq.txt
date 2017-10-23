@@ -10,4 +10,4 @@
    )
    Unique Primary Index(EmployeeNo);
 .LOGOFF; 
-   
+select * from employee_bkup;
