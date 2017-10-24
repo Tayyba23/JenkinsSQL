@@ -1,0 +1,22 @@
+2017-10-11 16:45:26,426 INFO  SumAvgLogger - In function 'sumAvgModuleManager', parameter values: 'int i' = 0
+2017-10-11 16:45:29,868 INFO  SumAvgLogger - In function 'sumAvgModuleManager', parameter values: 'int i' = 1
+2017-10-11 16:45:31,946 INFO  SumAvgLogger - In function 'sumAvgModuleManager', parameter values: 'int i' = 2
+2017-10-11 16:45:39,678 INFO  SumAvgLogger - In function 'sumAvgModuleManager', parameter values: 'int i' = 3
+2017-10-11 16:45:44,094 INFO  SumAvgLogger - In function 'sumAvgModuleManager', parameter values: 'int i' = 4
+2017-10-11 16:45:46,321 INFO  SumAvgLogger - In function 'sumAvgModuleManager', parameter values: 'int i' = 5
+2017-10-11 16:45:46,828 INFO  SumAvgLogger - In function 'sumAvgModuleManager', parameter values: 'int i' = 6
+2017-10-11 16:45:47,135 INFO  SumAvgLogger - In function 'sumAvgModuleManager', parameter values: 'int i' = 7
+2017-10-11 16:45:47,231 INFO  SumAvgLogger - In function 'sumAvgModuleManager', parameter values: 'int i' = 8
+2017-10-11 16:45:47,662 INFO  SumAvgLogger - In function 'sumAvgModuleManager', parameter values: 'int i' = 9
+2017-10-11 16:45:48,416 DEBUG SumAvgLogger - SumAvgModule execution time: 754(ms)
+2017-10-11 18:00:23,831 INFO  SumAvgLogger - In function 'sumAvgModuleManager', parameter values: 'int i' = 0
+2017-10-11 18:00:27,310 INFO  SumAvgLogger - In function 'sumAvgModuleManager', parameter values: 'int i' = 1
+2017-10-11 18:00:31,041 INFO  SumAvgLogger - In function 'sumAvgModuleManager', parameter values: 'int i' = 2
+2017-10-11 18:00:39,679 INFO  SumAvgLogger - In function 'sumAvgModuleManager', parameter values: 'int i' = 3
+2017-10-11 18:00:42,157 INFO  SumAvgLogger - In function 'sumAvgModuleManager', parameter values: 'int i' = 4
+2017-10-11 18:00:44,257 INFO  SumAvgLogger - In function 'sumAvgModuleManager', parameter values: 'int i' = 5
+2017-10-11 18:00:45,341 INFO  SumAvgLogger - In function 'sumAvgModuleManager', parameter values: 'int i' = 6
+2017-10-11 18:00:45,972 INFO  SumAvgLogger - In function 'sumAvgModuleManager', parameter values: 'int i' = 7
+2017-10-11 18:00:46,074 INFO  SumAvgLogger - In function 'sumAvgModuleManager', parameter values: 'int i' = 8
+2017-10-11 18:00:47,041 INFO  SumAvgLogger - In function 'sumAvgModuleManager', parameter values: 'int i' = 9
+2017-10-11 18:00:48,004 DEBUG SumAvgLogger - SumAvgModule execution time: 962(ms)
