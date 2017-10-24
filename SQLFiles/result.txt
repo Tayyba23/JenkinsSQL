@@ -1,0 +1,41 @@
+diff --git a/SQLFiles/Test.jar b/SQLFiles/Test.jar
+new file mode 100644
+index 0000000..c54f140
+Binary files /dev/null and b/SQLFiles/Test.jar differ
+diff --git a/SQLFiles/curr_com.txt b/SQLFiles/curr_com.txt
+new file mode 100644
+index 0000000..7df8ccc
+--- /dev/null
++++ b/SQLFiles/curr_com.txt
+@@ -0,0 +1 @@
++1028c89064d43ac15861b78fc8cba4fc2a07c124
+diff --git a/SQLFiles/hi.txt b/SQLFiles/hi.txt
+new file mode 100644
+index 0000000..8cb4b18
+--- /dev/null
++++ b/SQLFiles/hi.txt
+@@ -0,0 +1,10 @@
++diff --git a/SQLFiles/src/testBteq.txt b/SQLFiles/src/testBteq.txt
++index 6506a61..99b8ecd 100644
++--- a/SQLFiles/src/testBteq.txt
+++++ b/SQLFiles/src/testBteq.txt
++@@ -10,4 +10,5 @@
++    )
++    Unique Primary Index(EmployeeNo);
++ .LOGOFF; 
+++
++ select * from employee_bkup;
+diff --git a/SQLFiles/prev_com.txt b/SQLFiles/prev_com.txt
+new file mode 100644
+index 0000000..4f6f9de
+--- /dev/null
++++ b/SQLFiles/prev_com.txt
+@@ -0,0 +1 @@
++1ece57e2fa428749e1ca5ab6126d03c3eabeba9e
+diff --git a/SQLFiles/src/prev_com.txt b/SQLFiles/src/prev_com.txt
+new file mode 100644
+index 0000000..d43f02a
+--- /dev/null
++++ b/SQLFiles/src/prev_com.txt
+@@ -0,0 +1 @@
++@~
