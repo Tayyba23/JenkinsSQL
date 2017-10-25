@@ -1,6 +1,7 @@
 .LOGON 192.168.74.133/dbc,dbc; 
    DATABASE tduser;
 select * from employee_bkup;
+select * from employee_bkup;
 .LOGOFF; 
 
 
