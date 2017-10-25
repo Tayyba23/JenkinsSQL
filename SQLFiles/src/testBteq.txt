@@ -1,14 +1,6 @@
-.LOGON 192.168.1.102/dbc,dbc; 
+.LOGON 192.168.74.133/dbc,dbc; 
    DATABASE tduser;
-
-   CREATE TABLE employee_bkup ( 
-      EmployeeNo INTEGER, 
-      FirstName CHAR(30), 
-      LastName CHAR(30), 
-      DepartmentNo SMALLINT, 
-      NetPay INTEGER 
-   )
-   Unique Primary Index(EmployeeNo);
+select * from employee_bkup;
 .LOGOFF; 
 
-select * from employee_bkup;
+
