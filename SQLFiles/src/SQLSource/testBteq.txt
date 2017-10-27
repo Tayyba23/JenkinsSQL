@@ -1,7 +1,6 @@
-.LOGON 192.168.74.133/dbc,dbc; 
-   DATABASE tduser;
-select * from employee_bkup;
-select * from employee_bkup;
+.LOGON 153.65.144.102/dbc,dbc; 
+   DATABASE tafd;
+   UPDATE TAFD.KR_ADDRESS_YL set ADDRESS_TYPE='XYZ_TYPE' where ADDRESS_TYPE='POSTAL';
 .LOGOFF; 
 
 
