@@ -1,5 +1,6 @@
 .logon 153.65.144.102/dbc,dbc;
 Database TAFD;
+Database TAFD;
 
 CREATE MULTISET TABLE TAFD.Exec_Status_Check_Rslt(test_id integer NOT NULL GENERATED ALWAYS AS IDENTITY (START WITH 1 INCREMENT BY 1 MINVALUE 1 NO CYCLE), stream_id integer, sub_stream_id integer, test_cycle_id varchar(20), test_type_cd integer, test_status varchar(10), process_type varchar(10), process_name varchar(20), Process_Exec_Start_TS timestamp(6), Process_Exec_End_TS timestamp(6), Process_Exec_Status varchar(10), Records_Inserted varchar(10), Records_Updated varchar(10), Records_Deleted varchar(10), script_text VARCHAR(1500) CHARACTER SET LATIN NOT CASESPECIFIC, business_date varchar(40), user_id integer, env_id varchar(20), execution_timestamp TIMESTAMP(6), PRIMARY KEY (test_id));
 
